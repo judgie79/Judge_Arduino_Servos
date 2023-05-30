@@ -1,0 +1,24 @@
+{
+    "name": "Judge.Servos",
+    "version": "1.0.0",
+    "description": "Managing Servo Motors",
+    "keywords": "Arduino",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/judgie79/Judge_Arduino_Servos.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Michael Richter",
+        "email": "the.judgie@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "dependencies": {
+      "hideakitai/DebugLog": "~0.6.6"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
